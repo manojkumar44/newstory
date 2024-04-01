@@ -1,0 +1,2 @@
+This is the chapter3.txt file, here we are again adding some
+random text for testing purposes.

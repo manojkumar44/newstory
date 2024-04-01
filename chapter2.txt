@@ -1,0 +1,13 @@
+This is chapter2.txt file, and we continue adding some more
+text here for testing purposes. We have already learned how
+to stage a file in the (master) github repository on our
+desktop folder named 'newstory'.
+
+We stage a file by typing:
+
+git add <file>
+
+and then to commit we simply use:
+
+git commit -m "add message describing what was changed,
+but in present tense"
