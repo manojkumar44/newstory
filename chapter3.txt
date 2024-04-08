@@ -1,2 +1,26 @@
 This is the chapter3.txt file, here we are again adding some
 random text for testing purposes.
+
+Here we learn what to do if say, you accidently mess up
+or ruin a file in a project (maybe u fell asleep) and 
+accidently saved it.
+
+Well, in such a case, you can compare the saved file with
+the previous file (the one you most likely will want to
+revert back to) by using this command:
+
+git diff chapter3.txt
+
+Once you hit enter you will see the part that got deleted
+(it appears in red) and it may show you the stuff you
+entered when u saved it.
+
+Now to undo the change, use the command:
+git checkout chapter3.txt
+
+
+Greetings earthlings, my name is Ploppleton Fizzleflop and
+I hail from the hilariously named planet "Gloopblorpia." It's 
+a world renowned for its bubbly swamps, fizzy waterfalls, 
+and of course, its population of whimsical and clumsy creatures 
+like myself, Ploppleton.
