@@ -1,1 +1,3 @@
 This is the chapter4.txt file which was originally created inside the master branch.
+
+This text should only be seen on the file residing on the 'alien-plot' branch.
