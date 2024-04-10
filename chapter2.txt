@@ -11,3 +11,6 @@ and then to commit we simply use:
 
 git commit -m "add message describing what was changed,
 but in present tense"
+
+One again, that silly alien has got into this folder and edited 
+my chapter2.txt file. I cannot believe its audacity to do this.
